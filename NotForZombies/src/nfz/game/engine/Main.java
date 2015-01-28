@@ -11,7 +11,7 @@ import static org.lwjgl.opengl.GL11.*;
 
 /**
  * Starts the game
- * @author Jani_NTB
+ * @author Patko a Olo
  *
  */
 public class Main {
